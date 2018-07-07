@@ -47,7 +47,7 @@ setup(name='dsflow-py-utils',
 ## Install python package
 
 ```
-package_name = { git = 'git+git@github.com:org/dsflow-io/dsflow-py-utils.git', editable = 'true' }
+dsflow_py_utils = {git = "git@github.com:dsflow-io/dsflow-py-utils.git", editable = true}
 ```
 
 OR
